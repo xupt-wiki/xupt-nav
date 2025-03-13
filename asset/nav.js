@@ -12,6 +12,7 @@ nav.list[0] = [{
     { text: "iWrite", icon: "fa-solid fa-pen-nib", link: "http://iwrite.unipus.cn/student" },
     { text: "中国大学MOOC", icon: "fa-solid fa-book-open", link: "https://icourse163.org/home.htm" },
     { text: "云班课", icon: "fa-solid fa-cloud", link: "https://www.mosoteach.cn/web/" },
+    { text: "学堂在线", icon: "fa-solid fa-school-circle-check", link: "https://www.xuetangx.com/my-courses/current" },
     { text: "蓝桥云课", icon: "iconfont icon-lanqiao", link: "https://www.lanqiao.cn/user/?tab=2#:~:text=%E6%88%91%E7%9A%84%E8%AF%BE%E7%A8%8B" },
     { text: "PTA", icon: "fa-solid fa-laptop-code", link: "https://pintia.cn/problem-sets/active" },
   ]
@@ -53,9 +54,10 @@ nav.list[0] = [{
 }, {
   name: "西邮周边", icon: "fa-solid fa-circle-nodes", item: [
     { text: "📘西邮Wiki", desc: "校园生活指南", link: "https://wiki.cooo.site/" },
-    { text: "🔥实验室纳新", desc: "火热纳新 就等你来", link: "https://docs.qq.com/sheet/DSkFiRmpzcVJHSklM?tab=BB08J2" },
+    { text: "🔥实验室", desc: "火热纳新 就等你来", link: "https://wiki.cooo.site/coder" },
     { text: "各兴趣群", desc: "游戏娱乐 小众爱好", icon: "fa-solid fa-gamepad", link: "https://docs.qq.com/sheet/DSkFiRmpzcVJHSklM?tab=ov58e9" },
     // { text: "校园网", link: "https://github.com/drcoms/drcom-generic/wiki/可用学校列表" },
+    { text: "西邮码农", desc: "实验室学习/就业交流", icon: "fa-solid fa-keyboard", js: "dialog.showMsg(this.textContent)" },
     { text: "逸夫楼地图", desc: "手机访问才正常", icon: "fa-solid fa-map-location-dot", js: "dialog.showMsg(this.textContent)" },
     { text: "东区教室导航", desc: "微信“隔壁小O”", icon: "fa-solid fa-route", link: "https://mp.weixin.qq.com/s/CZR_d2SmltiZyl-oCz3zhA" },
     { text: "邮立方", desc: "校园MC交流", icon: "iconfont icon-minecraft", link: "https://cop.cooo.site" },
