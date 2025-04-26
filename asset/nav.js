@@ -7,14 +7,15 @@ let nav = {
 
 nav.list[0] = [{
   name: "线上课时", icon: "fa-solid fa-chalkboard-user", item: [
-    { text: "学习通", icon: "iconfont icon-chaoxing", link: "http://i.chaoxing.com/" },
+    { text: "学习通", icon: "iconfont icon-chaoxing", link: "https://i.chaoxing.com/" },
     { text: "U校园", icon: "fa-solid fa-u", link: "https://u.unipus.cn/user/student" },
-    { text: "iWrite", icon: "fa-solid fa-pen-nib", link: "http://iwrite.unipus.cn/student" },
+    { text: "iWrite", icon: "fa-solid fa-pen-nib", link: "https://iwrite.unipus.cn/student" },
     { text: "中国大学MOOC", icon: "fa-solid fa-book-open", link: "https://icourse163.org/home.htm" },
     { text: "云班课", icon: "fa-solid fa-cloud", link: "https://www.mosoteach.cn/web/" },
     { text: "学堂在线", icon: "fa-solid fa-school-circle-check", link: "https://www.xuetangx.com/my-courses/current" },
     { text: "蓝桥云课", icon: "iconfont icon-lanqiao", link: "https://www.lanqiao.cn/user/?tab=2#:~:text=%E6%88%91%E7%9A%84%E8%AF%BE%E7%A8%8B" },
     { text: "PTA", icon: "fa-solid fa-laptop-code", link: "https://pintia.cn/problem-sets/active" },
+    { text: "希冀", icon: "fa-solid fa-infinity", link: "https://course.educg.net/" },
   ]
 }, {
   name: "西邮生活", icon: "fa-solid fa-school", item: [
@@ -32,12 +33,12 @@ nav.list[0] = [{
     { text: "电子教材", desc: "西邮图书馆", icon: "fa-solid fa-book", link: "https://xyoujc.mh.chaoxing.com/engine2/general-rest/4072742/proxy-more-url?wfwfid=22861" },
     { text: "教育邮箱", desc: "页面右上角能申请", icon: "fa-solid fa-envelope", link: "http://webmail.xupt.edu.cn/" },
     { text: "企业微信", desc: "关注/加入指南", icon: "fa-brands fa-weixin", link: "https://xxzx.xupt.edu.cn/info/1005/2693.htm" },
-    { text: "西邮官网", icon: "fa-solid fa-globe", link: "http://www.xupt.edu.cn/" },
-    { text: "常用服务导航", icon: "fa-solid fa-taxi", link: "http://www.xupt.edu.cn/xxfw/cyfw1.htm" },
+    { text: "西邮官网", icon: "fa-solid fa-globe", link: "https://www.xupt.edu.cn/" },
+    { text: "常用服务导航", icon: "fa-solid fa-taxi", link: "https://www.xupt.edu.cn/xxfw/cyfw1.htm" },
     { text: "办事大厅", icon: "fa-solid fa-building-columns", link: "http://one.xupt.edu.cn/EIP" },
-    { text: "信息直通车", icon: "fa-solid fa-train-subway", link: "http://ztc.sec.xupt.edu.cn/" },
-    { text: "正版软件", icon: "fa-solid fa-cubes", link: "http://ms.xupt.edu.cn/" },
-    { text: "AI大模型", icon: "fa-solid fa-robot", link: "http://ms.xupt.edu.cn/index/aicom/chat" },
+    { text: "信息直通车", icon: "fa-solid fa-train-subway", link: "https://ztc.sec.xupt.edu.cn/" },
+    // { text: "正版软件", icon: "fa-solid fa-cubes", link: "http://ms.xupt.edu.cn/" },
+    { text: "智邮园", desc: "AI对话咨询", icon: "fa-solid fa-robot", link: "https://agent.xupt.edu.cn/h5/portal/xupt/intelligentAgent" },
   ]
 }, {
   name: "考试学习", icon: "fa-solid fa-pen-ruler", item: [
@@ -117,13 +118,13 @@ nav.list[1] = [{
     { text: "在线PS", desc: "稿定设计", link: "https://ps.gaoding.com/" },
     { text: "帮小忙", desc: "QQ浏览器", link: "https://tool.browser.qq.com/" },
     { text: "IT Tools", desc: "开发者小工具", link: "https://it-tools.tech/" },
-    { text: "MikuTools", desc: "小工具集合", link: "http://tools.miku.ac/" },
+    { text: "MikuTools", desc: "小工具集合", link: "https://tools.miku.ac/" },
     { text: "测网速", desc: "中科大测速", link: "https://test.ustc.edu.cn/" },
     { text: "USTC反代", desc: "教育网出口测试", link: "http://revproxy.ustc.edu.cn:8000/" },
     { text: "IP检查", desc: "Sukka", link: "https://ip.skk.moe/" },
     { text: "MyIP", desc: "IP工具箱", link: "https://ipcheck.ing/" },
     { text: "画流程图", desc: "Draw.io", link: "https://draw.io/" },
-    { text: "电路仿真", desc: "CircuitJS1", link: "http://www.falstad.com/circuit/circuitjs.html" },
+    { text: "电路仿真", desc: "CircuitJS1", link: "https://www.falstad.com/circuit/circuitjs.html" },
     { text: "在线DOS", desc: "MASM汇编", link: "https://dosasm.github.io/dosrun/" },
     { text: "HDL仿真", desc: "EDA playground", link: "https://edaplayground.com/" },
     { text: "RISC-V仿真", desc: "emulsiV", link: "https://eseo-tech.github.io/emulsiV/" },

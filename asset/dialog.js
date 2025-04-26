@@ -12,10 +12,10 @@ dialog.msgs = {
     逸夫楼地图: { content: '学长做的，但是要旋转屏幕方向才能使用。', code: 'https://8.u.h5mc.com/c/7oor/ygju/index.html' },
     西邮财务处: { icon: 'fa-solid fa-money-bills', content: '支付宝扫码，查询/领取来自西邮财务处的奖学金/退费。', code: 'http://wx.weiweixiao.net/index.php/Wap/ModFfgl/index/token/eoQ1mDMc7BGAAAAWPgst-A.html' },
     缴费大厅: { icon: 'fa-solid fa-sack-dollar', content: '支付宝扫码，支持充值公寓电费，电表只能被一个用户绑定。<br>(<strong><a href="https://cwc.xupt.edu.cn/info/1013/1371.htm">公寓电费充值指南</a></strong>) ', code: 'https://wx.weiweixiao.net/index.php/Wap/Index/columns.html?token=eoQ1mDMc7BGAAAAWPgst-A&id=VGGmLrY67BGAAAAWPwAVGQ' },
-    取快递: { icon: 'iconfont icon-taobao', content: '淘宝扫码或直接访问', code: 'https://pages-fast.m.taobao.com/wow/z/uniapp/1011717/last-mile-fe/end-collect-platform/school' },
+    取快递: { icon: 'iconfont icon-taobao', content: '淘宝扫码或直接访问', code: 'https://pages-fast.m.taobao.com/wow/z/uniapp/1100194/last-mile-fe/m-end-school/home' },
     试卷打印: { icon: 'fa-solid fa-print', content: '微信小程序搜索“萌蚤云印”，选择打印店后点击下方“资料”，可以查看此店热门资源。<br>祝大家期末不挂科。' },
-    西邮码农: { icon: 'fa-solid fa-keyboard', content: 'QQ扫码加入频道，学习各实验室培养方案，交流就业。', code: 'https://pd.qq.com/g/pd65611488' },
-    西柚oi: { icon: 'iconfont icon-xiaohongshu', content: '小红书APP扫码加入，二维码2025年4月10日前有效', code: 'http://xhslink.com/a/GCbo4FP3GOK7' },
+    西邮码农: { icon: 'fa-solid fa-keyboard', content: 'QQ扫码加入频道，学习各实验室培养方案，交流就业。', code: 'https://pd.qq.com/g/xiyoumanong' },
+    西柚oi: { icon: 'iconfont icon-xiaohongshu', content: '小红书APP扫码加入，二维码2025年5月24日前有效', code: 'http://xhslink.com/a/5Rll3sQiogabb' },
 }
 
 dialog.showMsg = (name) => {
