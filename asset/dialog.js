@@ -15,7 +15,7 @@ dialog.msgs = {
     取快递: { icon: 'iconfont icon-taobao', content: '淘宝扫码或直接访问', code: 'https://pages-fast.m.taobao.com/wow/z/uniapp/1100194/last-mile-fe/m-end-school/home' },
     试卷打印: { icon: 'fa-solid fa-print', content: '微信小程序搜索“萌蚤云印”，选择打印店后点击下方“资料”，可以查看此店热门资源。<br>祝大家期末不挂科。' },
     西邮码农: { icon: 'fa-solid fa-keyboard', content: 'QQ扫码加入频道，学习各实验室培养方案，交流就业。', code: 'https://pd.qq.com/g/xiyoumanong' },
-    西柚oi: { icon: 'iconfont icon-xiaohongshu', content: '小红书APP扫码加入，二维码2025年9月14日前有效', code: 'https://xhslink.com/m/5JNGJmrmzvt' },
+    西柚oi: { icon: 'iconfont icon-xiaohongshu', content: '小红书APP扫码加入，二维码2025年10月11日前有效', code: 'https://xhslink.com/m/6k88QMXnHUE' },
 }
 
 dialog.showMsg = (name) => {
